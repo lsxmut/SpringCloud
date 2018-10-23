@@ -93,5 +93,6 @@
 		<module>gatherwitcloud-eureka-7001</module>
 		<module>gatherwitcloud-eureka-7002</module>
 		<module>gatherwitcloud-eureka-7003</module>
+		<module>gatherwitcloud-provider-8002</module>
 	</modules>
 </project>
