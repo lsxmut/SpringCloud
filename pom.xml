@@ -95,5 +95,6 @@
 		<module>gatherwitcloud-eureka-7003</module>
 		<module>gatherwitcloud-provider-8002</module>
 		<module>gatherwitcloud-provider-8003</module>
+		<module>gatherwitcloud-consumer-feign80</module>
 	</modules>
 </project>
